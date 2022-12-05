@@ -1,0 +1,6 @@
+.idea
+db.sqlite3
+Pipfile
+Pipfile.lock
+frontend/.idea
+frontend/node_modules
